@@ -1,6 +1,7 @@
 # Road Accident Analysis Dashboard
 
-![image](https://github.com/RahulHans31/road-accident-analysis-dashboard/assets/94359468/713cf41b-f364-49e8-afc9-7b3b8e1d87d5)
+![image](https://github.com/RahulHans31/road-accident-analysis-dashboard/assets/94359468/82c30ce3-f12d-4065-a89b-e783032222de)
+
 
 
 
