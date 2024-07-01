@@ -1,6 +1,7 @@
 # Road Accident Analysis Dashboard
 
-![image](https://github.com/RahulHans31/road-accident-analysis-dashboard/assets/94359468/6a699e11-c28d-4b2a-8587-1470c9b75437)
+![image](https://github.com/RahulHans31/road-accident-analysis-dashboard/assets/94359468/713cf41b-f364-49e8-afc9-7b3b8e1d87d5)
+
 
 
 Welcome to the Road Accident Analysis Dashboard repository! This project provides an in-depth analysis of road accidents using a Power BI dashboard.
